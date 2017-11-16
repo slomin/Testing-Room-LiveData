@@ -1,4 +1,4 @@
-package com.kotlinbglog.roomlivedata
+package com.kotlinblog.roomlivedata
 
 import org.junit.Test
 

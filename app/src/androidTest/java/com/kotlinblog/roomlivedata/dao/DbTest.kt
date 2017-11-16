@@ -1,8 +1,8 @@
-package com.kotlinbglog.roomlivedata.dao
+package com.kotlinblog.roomlivedata.dao
 
 import android.arch.persistence.room.Room
 import android.support.test.InstrumentationRegistry
-import com.kotlinbglog.roomlivedata.db.AppDatabase
+import com.kotlinblog.roomlivedata.db.AppDatabase
 import org.junit.After
 import org.junit.Before
 import java.io.IOException

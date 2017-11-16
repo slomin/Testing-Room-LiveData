@@ -1,10 +1,10 @@
-package com.kotlinbglog.roomlivedata
+package com.kotlinblog.roomlivedata
 
 import android.arch.lifecycle.Observer
 import android.arch.lifecycle.ViewModelProviders
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import com.kotlinbglog.roomlivedata.db.User
+import com.kotlinblog.roomlivedata.db.User
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

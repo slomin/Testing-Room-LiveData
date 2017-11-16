@@ -1,4 +1,4 @@
-package com.kotlinbglog.roomlivedata.extensions
+package com.kotlinblog.roomlivedata.extensions
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.Observer

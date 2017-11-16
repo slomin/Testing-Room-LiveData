@@ -1,8 +1,8 @@
-package com.kotlinbglog.roomlivedata.dao
+package com.kotlinblog.roomlivedata.dao
 
 import android.support.test.runner.AndroidJUnit4
-import com.kotlinbglog.roomlivedata.db.User
-import com.kotlinbglog.roomlivedata.extensions.getValueBlocking
+import com.kotlinblog.roomlivedata.db.User
+import com.kotlinblog.roomlivedata.extensions.getValueBlocking
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Test

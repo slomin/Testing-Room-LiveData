@@ -1,10 +1,10 @@
-package com.kotlinbglog.roomlivedata
+package com.kotlinblog.roomlivedata
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel
 import android.arch.lifecycle.LiveData
-import com.kotlinbglog.roomlivedata.db.AppDatabase
-import com.kotlinbglog.roomlivedata.db.User
+import com.kotlinblog.roomlivedata.db.AppDatabase
+import com.kotlinblog.roomlivedata.db.User
 import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.longToast
 import org.jetbrains.anko.uiThread

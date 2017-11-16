@@ -1,4 +1,4 @@
-package com.kotlinbglog.roomlivedata.db
+package com.kotlinblog.roomlivedata.db
 
 import android.arch.persistence.room.Database
 import android.arch.persistence.room.Room
